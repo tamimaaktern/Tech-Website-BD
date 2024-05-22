@@ -1,0 +1,599 @@
+#all{
+    background-color: #f1f7f8;
+}
+.logo img {
+    height: 100px;
+    width: 200px;
+}
+form{
+    width: 500px;
+   height: 50px;   
+}
+.int input{
+    border-radius: 50px;
+}
+form input{
+    border-radius: 50px;
+}
+form button:hover{
+    background-color: teal;
+    color: white;
+}
+form button{
+    width: 35px;
+    border: none;
+    border-radius: 50px;
+    height: 35px;
+    background-color: rgb(250, 128, 128);
+    color: white;
+    margin-left: -60px;
+    margin-top: 7px;
+}
+.btn-2 button{
+    border: none;
+    background-color: #fae4dc;
+    color:#e3744f;
+    height: 40px;
+    width: 40px;
+    border-radius: 50px;
+    margin: 7px;   
+}
+.btn-2 button:hover{
+    background-color: rgb(237, 100, 55);
+    color: white;
+}
+.btn-2{
+    margin-right: 100px;   
+}
+.line{
+    height: 5px;
+}
+.anc a{
+    font-size: 15px;
+
+}
+.dropdown:hover{
+    color: rgb(19, 152, 152);
+}
+.carousel{
+    margin-top: 30px;
+}
+.carousel-item img{
+    border-radius: 10px;
+}
+.carousel-item img:hover{
+    transform: scale(1.1);
+    transition: .7s;
+}
+.deal{
+    height: 220px;
+    width: 1110px;
+    background-image: url(images/hot\ deal/5bg.jpg);
+    margin-top: 30px;
+    border-radius: 15px;
+}
+.deal-1 h3{
+    text-align: center;
+    margin-top: 40px;  
+}
+.sa{
+    display: flex;
+    height: 120px;
+    width: 550px;
+    background-color: white;
+    margin-top: 20px;
+    border-radius: 10px;
+    justify-content: space-around;
+}
+.noise{
+    margin-top: 30px;
+}
+.sa img{
+    height: 100px;
+    width: 100px;
+    background-color: #f4f8fb;
+    margin-left: 20px;
+    margin-top: 10px;
+    border-radius: 5px;
+}
+.sa img:hover{
+    transform: scale(1.1);
+    transition: .7s;
+}
+.sa-1{
+    display: flex;
+    height: 120px;
+    width: 500px;
+    background-color: white;
+    margin-top: 20px;
+    margin-left: 40px;
+    border-radius: 10px;
+    justify-content: space-around;
+}
+.nokia{
+    margin-top: 30px;
+}
+.sa-1 img{
+    height: 100px;
+    width: 100px;
+    background-color: #f4f8fb;
+    margin-left: 20px;
+    margin-top: 10px;
+    border-radius: 5px;
+}
+.sa-1 img:hover{
+    transform: scale(1.1);
+    transition: .7s;
+}
+.air img {
+    height: 200px;
+    width: 350px;
+    border-radius: 10px;
+}
+.air img:hover{
+    transform: scale(1.1);
+    transition: .7s;
+}
+.phn img{
+    height: 200px;
+    width: 750px;
+    margin-left: 20px;
+    border-radius: 10px;
+}
+.phn img:hover{
+    transform: scale(1.1);
+    transition: .7s;
+}
+.air-phn {
+    margin: 25px;
+}
+.col img{
+    height: 60px;
+    width: 60px;
+    border: 2px solid #cce4e8;
+    border-radius: 70px;
+    margin-left: 45px;
+}
+.col p {
+    font-size: 25px;
+    text-align: center;
+}
+.col:hover {
+    color: red;   
+}
+.col img:hover{
+    border: 2px solid red;
+}
+.allcard1{
+    display: flex;
+    justify-content: space-between;
+}
+.allcard{
+    width: 1000px;
+    height: 450px;
+    background-color:#edf5f7 ;
+    border-radius: 10px;
+    margin-top: 40px;  
+}
+.allcard1 h2{
+    width: 300px;
+    height: 20px;
+    margin: 10px;
+    margin-top: 15px;  
+}
+.allcard1 button {
+    width: 120px;
+    height: 30px;
+    color: #df6e48;
+    font-size: large;
+    border: 1px solid #df6e48;
+    border-radius: 5px;
+    margin-left: 800px;
+    margin: 10px;
+    margin-top: 15px; 
+}
+.allcard button:hover{
+    color: white;
+    background-color: #db5a2f;
+}
+.card1{
+    display: flex;
+    align-items: center;
+    justify-content:space-between;
+    margin: 20px;
+}
+.card11{
+    width: 250px;
+    height:300px ;
+    background-color: #ffffff;
+    border-radius: 10px;   
+}
+.card11 p{
+    margin: 20px;
+    text-align: center;
+}
+.card12 {
+    height: 170px;
+    width: 200px;
+    background-color: #edf5f7;
+    margin: 20px; 
+}
+.card-text{
+    font-weight: bold;
+}
+.card12 img{
+    position:relative;
+}
+.red img {
+    height: 200px;
+    width: 550px;
+    border-radius: 10px;
+}
+.hon img{
+    height: 200px;
+    width: 550px;
+    margin-left: 20px;
+    border-radius: 10px;
+}
+.redmi {
+    margin: 30px;
+}
+.allcard1{
+    display: flex;
+    justify-content: space-between;
+}
+.allcard{
+    width: 1000px;
+    height: 450px;
+    background-color:#edf5f7 ;
+    border-radius: 10px; 
+}
+.allcard1 h2{
+    width: 300px;
+    height: 20px;
+    margin: 10px;
+    margin-top: 15px; 
+}
+.allcard1 button {
+    width: 120px;
+    height: 30px;
+    color: #df6e48;
+    font-size: large;
+    border: 1px solid #df6e48;
+    border-radius: 5px;
+    margin-left: 800px;
+    margin: 10px;
+    margin-top: 15px; 
+}
+.allcard button:hover{
+    color: white;
+    background-color: #db5a2f;
+}
+.card1{
+    display: flex;
+    align-items: center;
+    justify-content:space-between;
+    margin: 20px;
+}
+.card11{
+    width: 250px;
+    height:300px ;
+    background-color: #ffffff;
+    border-radius: 10px;  
+}
+.card11 p{
+    margin: 20px;
+    text-align: center;
+}
+.card12 {
+    height: 170px;
+    width: 200px;
+    background-color: #edf5f7;
+    margin: 20px;
+   
+}
+.card-text{
+    font-weight: bold;
+}
+.card12 img{
+    position:relative;
+}
+.iphn img {
+    height: 250px;
+    width: 1135px;
+    border-radius: 10px;
+    margin-top: 40px;
+    
+}
+.allcard1{
+    display: flex;
+    justify-content: space-between;
+}
+.allcard{
+    width: 1000px;
+    height: 450px;
+    background-color:#edf5f7 ;
+    border-radius: 10px;  
+}
+.allcard1 h2{
+    width: 300px;
+    height: 20px;
+    margin: 10px;
+    margin-top: 15px;
+   
+}
+.allcard1 button {
+    width: 120px;
+    height: 30px;
+    color: #df6e48;
+    font-size: large;
+    border: 1px solid #df6e48;
+    border-radius: 5px;
+    margin-left: 800px;
+    margin: 10px;
+    margin-top: 15px; 
+}
+.allcard button:hover{
+    color: white;
+    background-color: #db5a2f;
+}
+.card1{
+    display: flex;
+    align-items: center;
+    justify-content:space-between;
+    margin: 20px;
+}
+.card11{
+    width: 250px;
+    height:300px ;
+    background-color: #ffffff;
+    border-radius: 10px;   
+}
+.card11 p{
+    margin: 20px;
+    text-align: center;
+}
+.card12 {
+    height: 170px;
+    width: 200px;
+    background-color: #edf5f7;
+    margin: 20px;  
+}
+.card-text{
+    font-weight: bold;
+}
+.card12 img{
+    position:relative;
+}
+.spe img {
+    height: 250px;
+    width: 1135px;
+    border-radius: 10px;
+    margin-top: 40px;  
+}
+.allcard1{
+    display: flex;
+    justify-content: space-between;
+}
+.allcard{
+    width: 1000px;
+    height: 450px;
+    background-color:#edf5f7 ;
+    border-radius: 10px;
+}
+.allcard1 h2{
+    width: 300px;
+    height: 20px;
+    margin: 10px;
+    margin-top: 15px;
+   
+}
+.allcard1 button {
+    width: 120px;
+    height: 30px;
+    color: #df6e48;
+    font-size: large;
+    border: 1px solid #df6e48;
+    border-radius: 5px;
+    margin-left: 800px;
+    margin: 10px;
+    margin-top: 15px; 
+}
+.allcard button:hover{
+    color: white;
+    background-color: #db5a2f;
+}
+.card1{
+    display: flex;
+    align-items: center;
+    justify-content:space-between;
+    margin: 20px;
+}
+.card11{
+    width: 250px;
+    height:300px ;
+    background-color: #ffffff;
+    border-radius: 10px;    
+}
+.card11 p{
+    margin: 20px;
+    text-align: center;
+}
+.card12 {
+    height: 170px;
+    width: 200px;
+    background-color: #edf5f7;
+    margin: 20px; 
+}
+.card-text{
+    font-weight: bold;
+}
+.card12 img{
+    position:relative;
+}
+.t-div h3{
+    
+    text-align: center;
+    width: 1140px;  
+}
+.t-div button{
+    height: 50px;
+    width: 220px;
+    border: none;
+    color: white;
+    background-color: #f98c67;
+    border-radius: 6px;
+    margin-left: 420px;
+    margin-top: 40px;
+}
+.t-div button:hover{
+    background-color: #a53e1b;
+}
+.sc{
+    background-image: url(images/brand/bg.webp);
+    height: 700px;
+    width: 100%;
+
+}
+.col-1 img {
+    height: 70px;
+    width: 160px;
+    margin: 10px;
+}
+.btn-3 button{
+    height: 110px;
+    width: 110px;
+    font-size: 50px;
+    color: #eb805d;
+    background-color: #ebf4f6;
+    margin-left: 90px;
+    margin-top: 50px;
+    border: none;
+    border-radius: 50px;
+}
+.btn-3 button:hover{
+    color: white;
+    background-color: #db5a2f;
+}
+.btn-3 p{
+    font-size: 20px;
+    margin-left: 70px;
+    margin-top: 20px;
+    
+}
+.btn-3 {
+    height: 250px;
+    width: 925px;
+    background-color: white;
+    margin-top: 60px;
+    margin-left: 100px;
+    border-radius: 10px;
+    box-shadow:-2px 0px 30px rgb(219, 217, 217);
+    display: grid;
+    justify-content: center;   
+}
+.details {
+    margin-top: 120px;
+}
+.mail{
+    font-size: 55px;
+    margin-top: 40px;    
+}
+.Subscribe{
+    margin-left: 30px;
+    margin-top: 50px;
+}
+.box {
+    height: 50px;
+    width: 400px;
+    margin-top: 40px;
+    margin-left: 70px;
+    border: 2px solid rgb(228, 116, 31);
+    border-radius: 6px 0px 0px 6px;
+    
+    
+}
+.box-btn{
+    height: 50px;
+    width: 150px;
+    color: white;
+    background-color: #ee7059;
+    margin-top: 40px;
+    margin-right: 10px;
+    border: none;
+    border-radius: 0px 6px 6px 0px;
+}
+.box-btn:hover{
+    background-color: #1b888a;
+}
+.all-fotter{
+    height: 750px;
+    background-color: #f4f8fb;
+}
+.box-2{
+    margin-left: 50px;
+}
+.box-2 h4{
+    font-weight: bolder;
+}
+.box-2 p:hover{
+    color: #db5a2f;
+}
+.box-2{
+    margin-top: 50px;
+}
+.about{
+    margin-right: 20px;
+}
+.policy{
+    margin-left: 70px;
+}
+.help{
+    margin-left: 70px;
+}
+.final{
+    margin-left: 300px;
+}
+.final p{
+    color: #db5a2f;
+}
+.last{
+    height: 100px;
+    width: 300px;
+    color: white;
+    background-color: #ec6d43;
+    margin-left: 70%;
+    border-radius: 5px;
+    box-shadow: rgb(81, 80, 80) 0px 5px 8px;;
+}
+.last p{
+    margin: 20px 0px 0px 30px;
+}
+.icon button{
+    border: none;
+    background-color: white;
+    height: 40px;
+    width: 40px;
+    border-radius: 50px;
+    margin: 7px; 
+}
+.icon button:hover{
+    background-color: black;
+    color: white;
+}
+.copy {
+    margin-top: 50px;
+}
+.fotter img {
+   margin-left: 200px;
+}
+.bit {
+    margin-left: 250px;
+}
+.bit button {
+    font-size: 15px;
+    color: #db5a2f;
+    border: 2px solid #db5a2f ;
+    border-radius: 50px;
+    margin-left: 20px;
+}
